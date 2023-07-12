@@ -25,6 +25,7 @@ I am Abhinandan Udupa, a engineering student from India. I am a passionate open 
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [# 2121](https://github.com/WasmEdge/WasmEdge/pull/2121) | A *in-progress* PR to fix bugs in the WASI implementation for Windows                         |
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [# 2278](https://github.com/WasmEdge/WasmEdge/pull/2278) | Fixed an issue related [GTest](https://github.com/google/googletest) when building on Windows |
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [# 2120](https://github.com/WasmEdge/WasmEdge/pull/2120) | Fixed a bug in the `INode::open()` function                                                   |
+| [Mythril](https://github.com/Consensys/mythril)  | [# 1787](https://github.com/Consensys/mythril/pull/1787) | Fixed a parsing issue related to Solidity/solc version                                        |
 
 ## Document Contributions
 
